@@ -1,9 +1,24 @@
-p {
-	color: #e8beeb;
+* {
+	margin: 0;
+	padding: 0;
+
+
+
 }
-.content {
-	margin-top: 100px;
-	margin-left: 50px;
-	width: 80%;
-	font-size: 2em;
+
+ul {
+
+}
+
+ul li {
+ list-style: none;
+ display: inline-block;
+
+}
+
+ul li a {
+ text-decoration: none;
+ font size: 14px;
+ font-family: arial;
+ color: #1e1e1e;
 }
