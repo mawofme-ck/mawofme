@@ -1,51 +1,57 @@
 p {
-	color: #e8beeb;
+	color: #355e73;
 }
 .content {
 	margin-top: 20px;
-	margin-left: 20px;
+	margin-left: 143px;
 	width: 80%;
-	font-size: 2em;
+	font-size: 20;
+	padding: 0 446px;
+}
+
+.h1-info {
+	text-align: center;
 }
 
 * {
-	margin: 0;
+	margin: 100;
 	padding: 0;
 }
 
 body {
-	background-color: #eee;
+	background-color: #abd180;
 
 }
 
 nav {
 	width: 100%;
-	height: 100px;
-	background-color: #fff;
+	height: 50px;
+	background-color: #fff
+	
 }
 
+
 ul {
-margin-left: 60px;
+	margin-left: none;
 
 }
 
 ul li {
 	list-style: none;
 	display: inline-block;
-	float: left;
-	line-height: 100px;
+	float: center;
+	line-height: 50px;
 }
 
 ul li a {
 	display: block;
 	text-decoration: none;
 	font-size: 20px;
-	font-family: none;
-	color: #1e1e1e;
-	padding: 0 160px;
+	font-family: arial;
+	color: #000000;
+	padding: 0 582px
 }
 
 ul li a:hover {
 	color: palevioletred;
-}
 }
