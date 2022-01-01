@@ -1,80 +1,97 @@
-p {
-	color: #355e73;
+* {
+	margin: 0;
+	padding: 0;
+}
 
+p {
+	color: #fcfcff
 }
 
 a:link {
 	text-decoration: none;
-	color: #964e41;
-	
-
+	color: #8088ff;
 }
 
 a:hover {
-	color: greenyellow;
-
+	color: aliceblue;
 }
 
-.index-links {
-	font-family: 'Permanent Marker', cursive;
 
+nav {
+	width: 235px;
+	height: 100px;
+	background-color: blue;
+	color: #fcfcff;
+	font-size: 50px;
+	text-align: center;
+	margin: 0 auto;
 }
-.content {
+
+nav ul {
 	margin-top: 20px;
-	margin-left: 143px;
-	width: 80%;
-	font-size: 20;
-	padding: 0 446px;
+	padding:none;
+	list-style: none;
+	background-color: blue;
+}
+
+#index-info {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 50px;
+	margin-top: 350px;
+	margin-left: 155px;
+	display: inline-block;
+	
+}
+
+#index-art { 
+	font-family: 'Permanent Marker', cursive;
+	font-size: 50px;
+	margin-left: 585px;
+	margin-top: -370px;
+	margin-bottom: none;
+	
+	
+}
+
+#index-shop {
+	font-family: 'Permanent Marker', cursive;
+	margin-top: -100px;
+	margin-left: 990px;
+	font-size: 50px;
 }
 
 .h1-info {
 	text-align: center;
+	color: #8088ff;
 }
 
 .p-welcome {
-	color: #f5e042;
+	color: #fcfcff
 }
 
-* {
-	margin: 100;
-	padding: 0;
+.contact-info {
+	color: #8088ff
+}
+
+.h1-shop {
+	color:#8088ff;
+	text-align: center;
+}
+
+.h1-art {
+	color:#8088ff;
+	text-align: center;
 }
 
 body {
-	background-color: #abd180;
+	background-color: #2e3447;
 
 }
-
-nav {
-	width: 100%;
-	height: 50px;
-	background-color: #fff
-	
-}
-
 
 ul {
-	margin-left: none;
-
+	margin-left: 100;
+	background-color: red;
 }
 
-ul li {
-	list-style: none;
-	display: inline-block;
-	float: center;
-	line-height: 50px;
-}
 
-ul li a {
-	display: block;
-	text-decoration: none;
-	font-size: 35px;
-	font-family: 'Yeseva One', cursive;
-	color: #000000;
-	padding: 0 532px
 
-}
-
-ul li a:hover {
-	color: palevioletred;
-}
