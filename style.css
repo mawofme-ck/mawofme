@@ -37,26 +37,28 @@ nav ul {
 #index-info {
 	font-family: 'Permanent Marker', cursive;
 	font-size: 50px;
-	margin-top: 350px;
+	margin-top: 330px;
 	margin-left: 155px;
 	display: inline-block;
+	padding-bottom: 30px;
 	
 }
 
 #index-art { 
 	font-family: 'Permanent Marker', cursive;
 	font-size: 50px;
-	margin-left: 585px;
-	margin-top: -370px;
+	margin-left: 485px;
+	margin-top: -580px;
 	margin-bottom: none;
+
 	
 	
 }
 
 #index-shop {
 	font-family: 'Permanent Marker', cursive;
-	margin-top: -100px;
-	margin-left: 990px;
+	margin-top: -380px;
+	margin-left: 875px;
 	font-size: 50px;
 }
 
