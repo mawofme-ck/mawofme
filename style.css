@@ -9,7 +9,7 @@ p {
 
 a:link {
 	text-decoration: none;
-	color: #8088ff;
+color: #fcfcff;
 }
 
 a:hover {
@@ -18,20 +18,21 @@ a:hover {
 
 
 nav {
-	width: 235px;
+	width: 580px;
 	height: 100px;
-	background-color: blue;
 	color: #fcfcff;
-	font-size: 50px;
+	font-size: 35px;
 	text-align: center;
 	margin: 0 auto;
+	font-family: 'Arial', sans-serif;
 }
 
 nav ul {
 	margin-top: 20px;
 	padding:none;
 	list-style: none;
-	background-color: blue;
+	background-color: 9c9ca3;
+	font-family: 'Arial', sans-serif;
 }
 
 #index-info {
@@ -80,19 +81,23 @@ nav ul {
 	text-align: center;
 }
 
+.index-link2 {
+	position: relative;
+	right: 100px;
+}
+
 .h1-art {
 	color:#8088ff;
 	text-align: center;
 }
 
 body {
-	background-color: #2e3447;
-
+	background-color: #9c9ca3;
 }
 
 ul {
 	margin-left: 100;
-	background-color: red;
+	background-color: #9c9ca3;
 }
 
 
