@@ -20,7 +20,7 @@ a:hover {
 nav {
 	width: 580px;
 	height: 100px;
-	color: #fcfcff;
+	color: black;
 	font-size: 35px;
 	text-align: center;
 	margin: 0 auto;
@@ -31,35 +31,32 @@ nav ul {
 	margin-top: 20px;
 	padding:none;
 	list-style: none;
-	background-color: 9c9ca3;
+	background-color: whitesmoke;
 	font-family: 'Arial', sans-serif;
 }
 
 #index-info {
 	font-family: 'Permanent Marker', cursive;
 	font-size: 50px;
-	margin-top: 330px;
-	margin-left: 155px;
+	margin-top: -70px;
+	margin-left: 650px;
 	display: inline-block;
-	padding-bottom: 30px;
+	padding-bottom: 130px;
 	
 }
 
 #index-art { 
 	font-family: 'Permanent Marker', cursive;
 	font-size: 50px;
-	margin-left: 485px;
-	margin-top: -580px;
+	margin-left: 345px;
+	margin-top: -350px;
 	margin-bottom: none;
-
-	
-	
 }
 
 #index-shop {
 	font-family: 'Permanent Marker', cursive;
-	margin-top: -380px;
-	margin-left: 875px;
+	margin-top: -480px;
+	margin-left: 150px;
 	font-size: 50px;
 }
 
@@ -92,7 +89,7 @@ nav ul {
 }
 
 body {
-	background-color: #9c9ca3;
+	background-color:whitesmoke;
 }
 
 ul {
